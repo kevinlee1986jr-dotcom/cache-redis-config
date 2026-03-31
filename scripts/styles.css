@@ -1,0 +1,80 @@
+/* style for the cache-redis-config project */
+.cache-redis-config {
+  font-family: Arial, sans-serif;
+  color: #333;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.cache-redis-config h1, .cache-redis-config h2, .cache-redis-config h3, .cache-redis-config h4 {
+  color: #2f4f7f;
+  margin-bottom: 10px;
+}
+
+.cache-redis-config h1 {
+  font-size: 24px;
+}
+
+.cache-redis-config h2 {
+  font-size: 18px;
+}
+
+.cache-redis-config h3 {
+  font-size: 16px;
+}
+
+.cache-redis-config pre {
+  font-family: monospace;
+  background-color: #f7f7f7;
+  padding: 10px 15px;
+  border: 1px solid #ddd;
+}
+
+.cache-redis-config pre code {
+  padding: 0;
+  font-size: inherit;
+}
+
+.cache-redis-config code {
+  padding: 2px 4px;
+  font-family: monospace;
+  background-color: #f7f7f7;
+  border-radius: 4px;
+}
+
+.cache-redis-config a {
+  text-decoration: none;
+  color: #337ab7;
+}
+
+.cache-redis-config a:hover {
+  color: #23527c;
+}
+
+.cache-redis-config table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px solid #ddd;
+}
+
+.cache-redis-config table th, .cache-redis-config table td {
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+
+.cache-redis-config table th {
+  background-color: #f0f0f0;
+}
+
+.cache-redis-config table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.cache-redis-config table th, .cache-redis-config table td {
+  text-align: left;
+}
+
+.cache-redis-config table th {
+  text-align: center;
+}
